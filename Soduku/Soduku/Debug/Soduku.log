@@ -1,0 +1,4 @@
+﻿  SodukuSolver.cpp
+c:\users\ruvim\source\repos\soduku\soduku\sodukusolver.cpp(90): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruvim\source\repos\soduku\soduku\sodukusolver.cpp(98): warning C4018: '<': signed/unsigned mismatch
+  Soduku.vcxproj -> C:\Users\Ruvim\source\repos\Soduku\Debug\Soduku.exe
